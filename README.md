@@ -1,1 +1,1 @@
-netflix-clone
+movieProject for education purpose
